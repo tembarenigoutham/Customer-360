@@ -1,5 +1,10 @@
 # Unified Customer 360 & Golden Record MDM
 
+🌐 **Live Application:** [https://unimatch-360.onrender.com/](https://unimatch-360.onrender.com/)  
+🔗 **GitHub Repository:** [https://github.com/tembarenigoutham/Customer-360](https://github.com/tembarenigoutham/Customer-360)
+
+---
+
 ## Project Overview
 
 **Unified Customer 360 & Golden Record MDM** is a Master Data Management (MDM) platform that consolidates customer information from multiple source systems into a trusted **Golden Record**.
