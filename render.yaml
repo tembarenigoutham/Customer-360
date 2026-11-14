@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: customer-360
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn api:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /api/health
+    plan: free
+    region: oregon
+    envVars:
+      - key: PORT
+        value: 10000
